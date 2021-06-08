@@ -1,5 +1,5 @@
 {
-  "name": "sapwf-taskui",
+  "name": "vue-cli-plugin-sapwf-taskui",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
