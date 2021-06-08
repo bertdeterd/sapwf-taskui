@@ -1,0 +1,19 @@
+{
+  "name": "sapwf-taskui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wfplugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertdeterd/sapwf-taskui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertdeterd/sapwf-taskui/issues"
+  },
+  "homepage": "https://github.com/bertdeterd/sapwf-taskui#readme"
+}
