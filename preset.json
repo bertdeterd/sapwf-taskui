@@ -1,27 +1,5 @@
 {
-  "useConfigFiles": true,
-  "plugins": {
-    "@vue/cli-plugin-babel": {},
-    "@vue/cli-plugin-router": {
-      "historyMode": true
-    },
-    "@vue/cli-plugin-vuex": {},
-    "@vue/cli-plugin-eslint": {
-      "config": "prettier",
-      "lintOn": [
-        "save"
-      ]
-    },
-    "vue-cli-plugin-bootstrap-vue": {},
-    "vue-cli-plugin-fontawesome": {}
-  },
-  "vueVersion": "2",
-  "cssPreprocessor": "dart-sass",
-  "configs": {
-    "vue": {
-      "devServer": {
-        "disableHostCheck": true
-      }
-    }
-  }
+ 
+    "useTaobaoRegistry": false
+ 
 }
